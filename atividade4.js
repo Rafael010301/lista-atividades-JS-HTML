@@ -1,0 +1,1 @@
+document.write("<p>Publicado em 12/5/2026</p>");
